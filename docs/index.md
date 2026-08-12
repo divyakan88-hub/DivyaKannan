@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <title>Divya Kannan — Data Analyst</title>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700;800&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="/css/style.css">
 </head>
 <body>
   <div class="page">
@@ -24,7 +24,7 @@
           </div>
         </div>
         <div class="hero-image">
-          <img src="assets/profile.svg" alt="Divya Kannan">
+          <img src="/assets/profile.svg" alt="Divya Kannan">
         </div>
       </div>
     </header>
@@ -32,7 +32,7 @@
     <main class="wrap main">
       <section class="card about">
         <h2>Professional profile</h2>
-        <p>Data-driven Senior analyst with 8+ years of experience turning complex business data into clear, actionable insights. Proven track record of building KPI dashboards, financial reports, and [...]
+        <p>Data-driven Senior analyst with 8+ years of experience turning complex business data into clear, actionable insights. Proven track record of building KPI dashboards, financial reports, and delivering insights that support business decisions across technology and operations.</p>
       </section>
 
       <section class="grid two-up">
